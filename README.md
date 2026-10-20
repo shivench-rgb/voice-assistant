@@ -1,3 +1,4 @@
+
 # Voice Controlled PC Assistant
 
 A Python-based voice assistant that allows you to control your Windows PC using voice commands.
@@ -118,3 +119,7 @@ The assistant listens to the user's voice, converts it into text, identifies the
 Shiven Chaware
 
 GitHub: https://github.com/shivenchaware995-spec
+=======
+# voice-assistant
+A Python-based voice assistant that uses speech recognition and voice output to interact with users and perform basic tasks through voice commands.
+
